@@ -9,6 +9,8 @@ public class ArrayExamples {
 		int[] runs; // Not Readable
 		int[] temperatures;// Recommended
 
+		
+		
 		// Declaration of an Array should not include size.
 		// int values[5];//Compilation Error!
 
